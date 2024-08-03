@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/d2d0d0f0-9386-4ff0-a762-829a5c9f1628)
+
 # Forecasting and Analysis of Geomagnetic Storms and Ionospheric Variations
 
 ## Overview
@@ -32,9 +34,6 @@ Please note that both the data and the outputs (including plots) are confidentia
 
 ## Usage
 Follow the instructions in the code to preprocess data, perform feature engineering, train the RNN model, and make predictions.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For any questions or further information, please contact maryamesh1911@gmail.com.
